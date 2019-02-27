@@ -1,4 +1,4 @@
 baseURL = "https://yasinsancaktutan.github.io/"
 languageCode = "en-us"
 title = "Yasin Sancaktutan"
-theme = "hyde"
+theme = "osprey"
